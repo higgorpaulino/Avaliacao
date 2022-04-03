@@ -1,0 +1,16 @@
+h1 {
+    font-size: xx-large; 
+}
+
+.img-fluid {
+    max-width: 80%;
+}
+
+.img-promocao {
+    max-width: 60%;
+    max-height: auto;
+}
+
+a {
+    font-size: large;
+}
