@@ -29,6 +29,13 @@ h3 {
     margin: 15px;
 }
 
+.img-redes {
+    max-width: 80px;
+    max-height: 80px;
+    align-self: center;
+    margin: 10px;
+}
+
 a {
     font-size: large;
 }
