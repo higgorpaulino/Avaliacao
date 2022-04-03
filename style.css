@@ -11,6 +11,11 @@ h1 {
     max-height: auto;
 }
 
+.img-servicos {
+    max-width: 40%;
+    max-height: auto;
+}
+
 a {
     font-size: large;
 }
